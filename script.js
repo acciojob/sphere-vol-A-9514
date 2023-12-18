@@ -6,4 +6,4 @@ function volume_sphere() {
   console.log(document.getElementById("volume"));
 } 
 
-//window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
+window.onload = document.getElementById('MyForm').onsubmit = volume_sphere;
